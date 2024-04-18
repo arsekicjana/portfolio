@@ -1,0 +1,74 @@
+body {
+    font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+margin:0;
+}
+.link-header
+ {
+    color:#331132;
+    padding: 30px;
+}
+
+.link-header:hover {
+    color: #F39BF2;
+    font-size: 20PX;
+    transition: 2s;
+    padding: 30px;
+}
+header{
+    background-color: #734C72;
+}
+nav {
+    background-image: linear-gradient(#734C72,#F39BF2);
+   padding: 30px;
+}
+
+.link-nav {
+    color: #331132;
+    padding: 2px;
+}
+
+.link-nav:hover {
+    color: #F39BF2;
+    font-size: 20PX;
+    transition: 2s;
+}
+
+main {
+    background-image: linear-gradient(#F39BF2,#C8A1C7,#F39BF2);
+}
+
+footer {
+    background-image: linear-gradient(#F39BF2,#734C72);
+}
+
+h1 {
+    padding: 30px;
+    
+    color: #331132;
+}
+
+p {
+    padding: 30px;
+    background-color: #9D829D;
+   
+}
+p:hover {
+    padding: 40px;
+    transition: 1s;
+}
+.omot{
+    display: flex;
+}
+footer{
+    width: 100%;
+}
+footer img {
+    border-radius: 90%;
+}
+footer img:hover{
+    opacity: 0.5;
+}
+
