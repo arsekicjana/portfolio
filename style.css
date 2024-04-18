@@ -71,4 +71,6 @@ footer img {
 footer img:hover{
     opacity: 0.5;
 }
-
+.center {
+    text-align:center;
+}
